@@ -1,0 +1,6 @@
+سگمنت,قاعده (قابل تفسیر),اندازه,OTD,زمان تحویل (p90),تکرار خرید ۹۰روزه,GMV/90d,بازی پیشنهادی (Play)
+S4 مشتریان تازه‌وارد / Newcomers,orders_count_90d = 1,16047,94.2,14.9,0.0,2325473.47,First-order assurance: transparent ETA + optional paid express.
+S1 مسیر سریع شهری / Urban Fast-Track,"state in {SP,RJ} & category in Top10",6780,93.2,11.8,23.2,917669.08,Express if p90>7d; otherwise expedite-off. Preemptive clear ETA.
+S2 مسیرهای پرریسک / Long-tail Risk States,state in bottom-quartile OTD & category in Top10,5919,92.3,12.3,22.8,796245.39,Long-ETA disclosure + back-order suppression + stricter geo-distance in peaks.
+S5 اقلام سنگین‌وزن / Heavy-Freight,freight_value in top 10%,1894,95.5,20.2,16.1,630556.26,Warehouse routing / carrier switch; cap basket weight for standard SLA.
+S3 مشتریان تکراری / Repeat Loyalists,repeat_flag_90d = 1,1994,95.2,14.0,100.0,458087.48,Proactive coupon for next order if last delivery on-time; upsell within category.
